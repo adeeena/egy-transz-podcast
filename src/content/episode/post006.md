@@ -1,5 +1,5 @@
 ---
-title: Amikor a sötét felhõk gyülekeznek: a Nemi Diszfória
+title: Amikor a sötét felhõk gyülekeznek - a Nemi Diszfória
 audioUrl: https://raw.githubusercontent.com/adeeena/egy-transz-podcast/main/public/audio/etpc_S1E06.mp3
 pubDate: Jun 13 2022
 duration: 00:22
