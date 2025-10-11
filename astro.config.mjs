@@ -13,6 +13,9 @@ import image from "@astrojs/image";
 // https://astro.build/config
 export default defineConfig({
   site: astropodConfig.site,
+  experimental: {
+    redirects: true,
+  },
   integrations: [
     robotsTxt({
       policy: [
@@ -34,5 +37,9 @@ export default defineConfig({
     NetlifyCMS({
       config: dcapConfig(),
     }),
+    
   ],
+  redirects: {
+    "/feed/podcast/": "/rss.xml",
+  }
 });
