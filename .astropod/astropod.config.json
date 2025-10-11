@@ -1,9 +1,9 @@
 {
   "copyright": "",
-  "theme": "light",
+  "theme": "dark",
   "fundingText": "",
-  "author": "Author's name",
-  "name": "Podcast Name",
+  "author": "Muráncsik Adéna Auróra",
+  "name": "Egy Transz Podcast",
   "banner": "/banner.webp",
   "pageSize": 15,
   "fundingUrl": "",
@@ -11,13 +11,13 @@
   "favicon": "/favicon.svg",
   "explicit": false,
   "cover": "/cover.jpg",
-  "language": "en",
-  "link": "https://your-website-url.netlify.app",
-  "email": "your.email@gmail.com",
-  "description": "A short description of your podcast. We suggest creating a podcast description between 600-900 characters or 120-170 words in length.",
+  "language": "hu",
+  "link": "https://1tpc.hu",
+  "email": "egytranszpodcastg@gmail.com",
+  "description": "Fedezd fel a transzidentitás új dimenzióit ebben a lenyűgöző podcastban! Egy Transz Podcastban olyan történeteket és beszélgetéseket hozok el neked, amelyek mélyebb betekintést nyújtanak a transzidentitás világába. Ez a podcast egy olyan közösséget hoz létre, ahol elfogadás és megértés van, és ahol minden hangnak helye van.",
   "category": [
-    "Technology",
-    "Business"
+    "Health",
+    "LGBTQIA+"
   ],
   "feedSize": ""
 }

@@ -106,7 +106,7 @@ export default function dcapconfig() {
           },
           {
             name: "listenOn",
-            label: "Listen On",
+            label: "Hallgass minket",
             file: ".astropod/listenOn.config.json",
             fields: [
               { name: "acastPodcasts", widget: "string", label: "Acast Podcasts", required: false },
@@ -123,7 +123,7 @@ export default function dcapconfig() {
           },
           {
             name: "follow",
-            label: "Social Links",
+            label: "Oldalak",
             file: ".astropod/social.config.json",
             fields: [
               { name: "facebook", widget: "string", label: "Facebook", required: false },
