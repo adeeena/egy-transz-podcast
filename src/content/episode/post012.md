@@ -2,7 +2,7 @@
 title: J. K. Rowling
 audioUrl: https://raw.githubusercontent.com/adeeena/egy-transz-podcast/main/public/audio/etpc_S2E04.mp3
 pubDate: May 29 2022
-duration: 00:32
+duration: 32:00
 size: 0.7
 cover: ""
 explicit: false

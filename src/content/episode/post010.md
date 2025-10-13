@@ -2,7 +2,7 @@
 title: Transz kezdetek
 audioUrl: https://raw.githubusercontent.com/adeeena/egy-transz-podcast/main/public/audio/etpc_S2E02.mp3
 pubDate: Jul 11 2022
-duration: 00:28
+duration: 28:00
 size: 0.7
 cover: ""
 explicit: false

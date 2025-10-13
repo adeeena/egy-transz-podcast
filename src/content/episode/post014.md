@@ -2,7 +2,7 @@
 title: Arcművészet I. Rész – Deluxe Szédülés
 audioUrl: https://raw.githubusercontent.com/adeeena/egy-transz-podcast/main/public/audio/etpc_S2E06.mp3
 pubDate: Sep 25 2023
-duration: 00:38
+duration: 38:00
 size: 0.7
 cover: ""
 explicit: false

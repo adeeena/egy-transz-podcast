@@ -2,7 +2,7 @@
 title: Hogyan ejtsük meg „a beszélgetést” a párunknak?
 audioUrl: https://raw.githubusercontent.com/adeeena/egy-transz-podcast/main/public/audio/etpc_S1E04.mp3
 pubDate: May 30 2022
-duration: 00:21
+duration: 21:00
 size: 0.7
 cover: ""
 explicit: false

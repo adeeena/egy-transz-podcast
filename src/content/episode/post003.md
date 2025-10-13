@@ -2,7 +2,7 @@
 title: Hogyan legyünk jobb szövetségesek a nem-bináris emberekkel?
 audioUrl: https://raw.githubusercontent.com/adeeena/egy-transz-podcast/main/public/audio/etpc_S1E03.mp3
 pubDate: May 23 2022
-duration: 00:18
+duration: 18:00
 size: 0.7
 cover: ""
 explicit: false

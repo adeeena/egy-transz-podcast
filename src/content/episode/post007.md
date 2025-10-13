@@ -2,7 +2,7 @@
 title: Mit tesz és mit NEM tesz a testeddel a feminizáló hormonterápia?
 audioUrl: https://raw.githubusercontent.com/adeeena/egy-transz-podcast/main/public/audio/etpc_S1E07.mp3
 pubDate: Jun 20 2022
-duration: 00:24
+duration: 24:00
 size: 0.7
 cover: ""
 explicit: false

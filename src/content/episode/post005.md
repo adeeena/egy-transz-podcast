@@ -2,7 +2,7 @@
 title: Hogyan kezdd el a tranzíciót? Célok, Elvárások, Lelki Felkészülés, Anyagiak
 audioUrl: https://raw.githubusercontent.com/adeeena/egy-transz-podcast/main/public/audio/etpc_S1E05.mp3
 pubDate: Jun 6 2022
-duration: 00:22
+duration: 22:00
 size: 0.7
 cover: ""
 explicit: false

@@ -2,7 +2,7 @@
 title: Honnan tudom, hogy ez nem csak egy fétis vagy valami múló tévképzet?
 audioUrl: https://raw.githubusercontent.com/adeeena/egy-transz-podcast/main/public/audio/etpc_S1E02.mp3
 pubDate: May 16 2022
-duration: 00:25
+duration: 25:00
 size: 0.7
 cover: ""
 explicit: false

@@ -2,7 +2,7 @@
 title: A minket mániákusan üldöző fanatikusok rendszertani besorolása
 audioUrl: https://raw.githubusercontent.com/adeeena/egy-transz-podcast/main/public/audio/etpc_S2E01.mp3
 pubDate: Jul 4 2022
-duration: 00:24
+duration: 24:00
 size: 0.7
 cover: ""
 explicit: false

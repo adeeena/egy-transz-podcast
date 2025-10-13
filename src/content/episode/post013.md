@@ -2,7 +2,7 @@
 title: Ariel a Disney-s Kis Hableányból egy transz nő
 audioUrl: https://raw.githubusercontent.com/adeeena/egy-transz-podcast/main/public/audio/etpc_S2E05.mp3
 pubDate: May 30 2023
-duration: 00:54
+duration: 54:00
 size: 0.7
 cover: ""
 explicit: false

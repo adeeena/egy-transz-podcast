@@ -2,7 +2,7 @@
 title: Jó ötlet lenne-e eltörölni a gendert? – III. rész
 audioUrl: https://raw.githubusercontent.com/adeeena/egy-transz-podcast/main/public/audio/etpc_S3E03.mp3
 pubDate: Nov 1 2024
-duration: 00:17
+duration: 17:00
 size: 0.7
 cover: ""
 explicit: false

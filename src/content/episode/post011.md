@@ -2,7 +2,7 @@
 title: Mese Blahajról
 audioUrl: https://raw.githubusercontent.com/adeeena/egy-transz-podcast/main/public/audio/etpc_S2E03.mp3
 pubDate: May 5 2023
-duration: 00:06
+duration: 06:00
 size: 0.7
 cover: ""
 explicit: false
