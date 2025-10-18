@@ -37,9 +37,8 @@ export default defineConfig({
     NetlifyCMS({
       config: dcapConfig(),
     }),
-    
   ],
   redirects: {
     "/feed/podcast/": "/rss.xml",
-  }
+  },
 });
